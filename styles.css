@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Lilita+One&family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Text:ital@0;1&family=Lilita+One&family=New+Amsterdam&display=swap');
+
+
+body {
+    color: rgb(221, 19, 19);
+    background: rgb(43, 43, 43);
+    margin: 15px;
+
+}
+
+header {
+
+    border-bottom: solid 2px rgba(237, 13, 13, 0.429);
+    padding: 25px;
+    font-size: 35px;
+    color: rgb(193, 193, 193);
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+
+    background: rgb(43, 43, 43);
+    
+    padding-bottom: 80px;
+    
+    }
+
+.gr6{
+ font-size: 45px;
+ display: flex;
+ justify-content: center;
+ color: rgb(193, 193, 193)
+}
+
+h2{
+    font-family: "New Amsterdam", sans-serif;
+    
+
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h3{
+    color: rgb(0, 200, 255);
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.IG{
+    color: rgb(0, 200, 255);
+
+}
+
+.igor{
+    background: rgb(38, 53, 58);
+}
+
+.love{
+    background: rgb(118, 28, 28);
+}
+
+.lf {
+    color: rgb(193, 193, 193);
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+
+.SAMBA{
+    color:rgb(185, 47, 47)
+}
+
+.alemao{
+    background: rgb(24, 24, 24);
+}
+
+.wl{
+    color: rgb(121, 121, 121);
+}
+
+.w{
+    color: rgb(121, 121, 121);
+}
